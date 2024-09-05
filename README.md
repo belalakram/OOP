@@ -1,16 +1,4 @@
 # OOP
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Object-oriented programming (OOP) is a programming paradigm that structures code using objects, which are instances of classes. Dart fully supports OOP principles, and this section provides a comprehensive exploration of key OOP concepts in Dart.
