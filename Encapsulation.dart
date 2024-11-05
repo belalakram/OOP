@@ -12,13 +12,15 @@ class Car {
   Car(String color) {
     _color = color;
   }
+  
+  void setColor(String newColor) {
+    _color = newColor;
+  }
 
   String getColor() {
     return _color ?? 'Unknown'; // Return 'Unknown' if _color is null
   }
 
-  void setColor(String newColor) {
-    _color = newColor;
-  }
+  
 }
 
