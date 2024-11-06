@@ -1,3 +1,5 @@
+//for extends
+//Concrete Classes 
 void main() {
   Circle myCircle = Circle();
   myCircle.draw(); // Calls Circle’s draw method
@@ -14,8 +16,9 @@ class Circle extends Shape {
 }
 
 
-
+// for implemets
 // Defining an interface using an abstract class
+//Dart does not use the interface keyword and used implemets to make it
 //Abstract Methods: An interface typically includes abstract methods (methods without a body) that implementing classes must define
 //Interfaces define a contract for classes in Dart (Facts)
 abstract class Animal {
