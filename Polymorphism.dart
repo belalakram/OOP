@@ -1,7 +1,12 @@
+//allows objects of different classes to be treated as objects of a common superclass
 void main() {
-  // Polymorphism in action
-  Animal myDog = Dog();
-  Animal myCat = Cat();
+  
+  Animal myDog = Dog(); // Polymorphism in action
+  Animal myCat = Cat(); // Polymorphism in action
+// i Can make it 
+  //  Dog myDog = Dog(); 
+  // Cat myCat = Cat(); 
+
 
   myDog.makeSound(); // Output: Woof! Woof!
   myCat.makeSound(); // Output: Meow!
